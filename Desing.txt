@@ -1,0 +1,10 @@
+A metodologia Desing Sprint (criada pelo google ventures) é um processo de 5 diaas para responder
+ a grandes questões de négocios através de desing, prototipagem e  testes com usuários reais,sem
+ precisar contruir e lançar um produto completo.
+
+Também é comum chamar de "sprint" o ciclo de trabalho do scrum (geralmente de 2 a 4 semanas)
+mas o termo como metodologia prórpia se refere-se oa desing sprint do google
+
+O Objetio pricipal 
+validar uma ideia ou resolver um problema crítico em 1 semana em vez gastar meses desenvolvendo
+ algo que talvez ninguem queira.
